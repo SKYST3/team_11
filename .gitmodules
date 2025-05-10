@@ -1,6 +1,6 @@
 [submodule "SKYST3_back"]
 	path = SKYST3_back
-	url = git@github.com:TY-ON/SKYST3_back.git
+	url = https://github.com/TY-ON/SKYST3_back.git
 [submodule "SKYST3_front"]
 	path = SKYST3_front
-	url = git@github.com:TY-ON/SKYST3_front.git
+	url = https://github.com/TY-ON/SKYST3_front.git
