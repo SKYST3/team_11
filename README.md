@@ -6,3 +6,4 @@ git submodule update
 git submodule foreach git checkout main
 ```
 위 명령어 적용 후 봐주시면 감사하겠습니다.
+
